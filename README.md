@@ -1,6 +1,6 @@
 # proxyonoffwifi
 
-Clash Verge +水晶ux9h 无线网卡+双频wifi深坑
+Clash Verge 系统代理模式+水晶ux9h 无线网卡+双频wifi深坑
 - 代理5g连不了,2.4g能连
 - 网卡5g扫描很慢
 
