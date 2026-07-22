@@ -20,4 +20,4 @@ WiFiAutoSwitch.ps1：
 
 代理开关
 - 手动切/写个autohotkey图形化界面切都可以
-手动点击运行WiFiAutoSwitch.ps1后，无管理员权限，powershell窗口后台要挂着
+- 手动点击运行WiFiAutoSwitch.ps1后，无管理员权限，powershell窗口后台要挂着
