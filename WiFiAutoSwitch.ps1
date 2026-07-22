@@ -473,7 +473,7 @@ else {
 
     $currentProxyOn = $status.IsProxyOn
 
-    # ================== 修改区域开始 ==================
+    # ====================================
     # 原：基于 $lastAppliedProxyOn 的变化判断
     # 新：基于当前代理状态与当前SSID比较，触发修正
     $currentSSID = Get-CurrentSSID
@@ -510,7 +510,7 @@ else {
     } else {
         Write-Log "当前WiFi已符合代理状态" "INFO"
     }
-    # ================== 修改区域结束 ==================
+
 
     Start-Sleep -Seconds $checkInterval
 }
