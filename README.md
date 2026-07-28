@@ -1,8 +1,9 @@
-# proxyonoffwifi
+# ProxyTriggeredWiFi_win10
 
 Clash Verge 系统代理模式+水晶ux9h 无线网卡+双频wifi深坑
 - 代理5g连不了,2.4g能连
 - 网卡5g扫描很慢
+
 
 因为深坑，我懒得换网卡也懒得手动切，所以借助ai写的😂
 
